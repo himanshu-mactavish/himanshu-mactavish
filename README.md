@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @himanshu-mactavish
-- 👀 I’m interested in machine learning ,Full stack Webdevelopment and DevOps
+- 👋 Hi, I’m Himanshu MacTavish
+- 👀 I’m interested in Machine Learning ,Full-Stack webdevelopment and DevOps
 - 🌱 I’m currently learning DevOps
 - 📫 You can reach me at me@himanshu-mactavish.me
 
