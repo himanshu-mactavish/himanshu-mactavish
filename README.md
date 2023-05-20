@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu MacTavish
+- 👋 Hi, I’m Himanshu MacTavish(https://github.com/h-mactavish)
 - 👀 I’m interested in Machine Learning ,Full-Stack webdevelopment and DevOps
 - 🌱 I’m currently learning DevOps
 - 📫 You can reach me at me@himanshu-mactavish.me
